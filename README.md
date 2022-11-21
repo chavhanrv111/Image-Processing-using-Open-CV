@@ -4,6 +4,14 @@
 - It is an inter disciplinary scientific field that deals with how computer can gain high level understanding from digital images or videos.
 - Computer vision is referred to as a field of study that comprises techniques and methodologies used to capture, analyse and process images and videos and take decisions based on information extracted from images or videos
 
+## libraries :
+- matplotlib
+  - pyplot
+- numpy
+- cv2
+- PIL
+  - Image
+ 
 ### Types:
  - Image classification
  - Object identification
